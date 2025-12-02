@@ -1,1 +1,24 @@
-# myFirstRep
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="/1www/css/main.css" />
+  </head>
+  <body>
+    <div class="conteiner">
+      <img src="/1www/images/фон.png" alt="" />
+    </div>
+
+    <div class="box">
+      <h2>содержание</h2>
+      <ol>
+        <li><a href="#">общее представление</a></li>
+        <li><a href="#">версии</a></li>
+        <li><a href="#">браузеры</a></li>
+        <li><a href="#">структура</a></li>
+      </ol>
+    </div>
+  </body>
+</html>
